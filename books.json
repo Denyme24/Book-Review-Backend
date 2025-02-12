@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "title": "1984",
+    "author": "George Orwell",
+    "cover": "https://s-i.huffpost.com/gen/1148926/images/o-CLASSIC-BOOKS-ORIGINAL-COVERS-facebook.jpg",
+    "rating": 5,
+    "genre": "fiction",
+    "description": "A dystopian novel that explores a world dominated by totalitarianism and extreme government surveillance. The story follows Winston Smith, a member of the Outer Party in the superstate of Oceania, as he secretly rebels against the oppressive rule of Big Brother. Winston struggles with his internal conflict of loyalty to the Party and his desire for freedom and truth. As he falls in love with Julia, he finds hope, but soon discovers that the Party\u2019s control extends beyond what he ever imagined. Orwell\u2019s novel is a haunting vision of a future where individuality is crushed, history is rewritten, and the government manipulates reality."
+  },
+  {
+    "id": 2,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "cover": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781471173936/the-great-gatsby-9781471173936_hr.jpg",
+    "rating": 4,
+    "genre": "fiction",
+    "description": "A classic American novel set in the Roaring Twenties, 'The Great Gatsby' explores themes of wealth, love, and the pursuit of the American Dream. The story is narrated by Nick Carraway, who moves to West Egg and becomes fascinated by his mysterious and wealthy neighbor, Jay Gatsby. Gatsby throws lavish parties in hopes of rekindling his lost love with Daisy Buchanan. As the story unfolds, the novel critiques the hollowness of the elite and the corruption underlying the American Dream. Fitzgerald\u2019s novel is a beautifully written, tragic tale of ambition, longing, and the illusion of success."
+  },
+  {
+    "id": 3,
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1566425108i/33.jpg",
+    "rating": 4,
+    "genre": "sci-fi",
+    "description": "Set in a futuristic world where society is engineered for maximum efficiency and stability, 'Brave New World' presents a chilling vision of a controlled society. In this world, people are genetically designed for specific roles, emotions are suppressed with a drug called Soma, and human relationships are devoid of deep connections. The story follows Bernard Marx, an outsider who questions the system, and John, a man from the outside world who struggles to adapt. Huxley\u2019s novel is a thought-provoking exploration of the dangers of technological advancement, consumerism, and the loss of individuality."
+  },
+  {
+    "id": 4,
+    "title": " Dune",
+    "author": "Frank Herbert",
+    "cover": "https://www.crossword.in/cdn/shop/files/513hKKmFzDL.jpg?v=1683284820",
+    "rating": 4,
+    "genre": "sci-fi",
+    "description": "A powerful novel about censorship, knowledge, and the dangers of a passive society, 'Fahrenheit 451' is set in a future where books are banned, and firefighters burn any that are found. The protagonist, Guy Montag, is a fireman who begins to question his role after meeting a free-spirited young woman named Clarisse. As he secretly collects books and seeks knowledge, he becomes a fugitive from the state. Bradbury\u2019s novel is a warning about the consequences of censorship, the control of information, and the importance of literature in human civilization."
+  },
+  {
+    "id": 5,
+    "title": "The Left Hand of Darkness",
+    "author": "Ursula K. Le Guin",
+    "cover": "https://m.media-amazon.com/images/I/71YEAnV8XTL.jpg",
+    "rating": 4,
+    "genre": "sci-fi",
+    "description": "A powerful novel about censorship, knowledge, and the dangers of a passive society, 'Fahrenheit 451' is set in a future where books are banned, and firefighters burn any that are found. The protagonist, Guy Montag, is a fireman who begins to question his role after meeting a free-spirited young woman named Clarisse. As he secretly collects books and seeks knowledge, he becomes a fugitive from the state. Bradbury\u2019s novel is a warning about the consequences of censorship, the control of information, and the importance of literature in human civilization."
+  },
+  {
+    "id": 6,
+    "title": "Do Androids Dream of Electric Sheep?",
+    "author": "Philip K. Dick",
+    "cover": "https://m.media-amazon.com/images/I/81OsjLvMOiL.jpg",
+    "rating": 4,
+    "genre": "sci-fi",
+    "description": "Set in a futuristic world where society is engineered for maximum efficiency and stability, 'Brave New World' presents a chilling vision of a controlled society. In this world, people are genetically designed for specific roles, emotions are suppressed with a drug called Soma, and human relationships are devoid of deep connections. The story follows Bernard Marx, an outsider who questions the system, and John, a man from the outside world who struggles to adapt. Huxley\u2019s novel is a thought-provoking exploration of the dangers of technological advancement, consumerism, and the loss of individuality."
+  },
+  {
+    "id": 7,
+    "title": "Foundation",
+    "author": "Isaac Asimov",
+    "cover": "https://m.media-amazon.com/images/I/81LT+V9G4IL._AC_UF1000,1000_QL80_.jpg",
+    "rating": 4,
+    "genre": "fiction",
+    "description": "A classic American novel set in the Roaring Twenties, 'The Great Gatsby' explores themes of wealth, love, and the pursuit of the American Dream. The story is narrated by Nick Carraway, who moves to West Egg and becomes fascinated by his mysterious and wealthy neighbor, Jay Gatsby. Gatsby throws lavish parties in hopes of rekindling his lost love with Daisy Buchanan. As the story unfolds, the novel critiques the hollowness of the elite and the corruption underlying the American Dream. Fitzgerald\u2019s novel is a beautifully written, tragic tale of ambition, longing, and the illusion of success."
+  },
+  {
+    "id": 8,
+    "title": "Murder on the Orient Express",
+    "author": "Agatha Christie",
+    "cover": "https://m.media-amazon.com/images/I/71ihbKf67RL.jpg",
+    "rating": 4,
+    "genre": "fiction",
+    "description": "A classic American novel set in the Roaring Twenties, 'The Great Gatsby' explores themes of wealth, love, and the pursuit of the American Dream. The story is narrated by Nick Carraway, who moves to West Egg and becomes fascinated by his mysterious and wealthy neighbor, Jay Gatsby. Gatsby throws lavish parties in hopes of rekindling his lost love with Daisy Buchanan. As the story unfolds, the novel critiques the hollowness of the elite and the corruption underlying the American Dream. Fitzgerald\u2019s novel is a beautifully written, tragic tale of ambition, longing, and the illusion of success."
+  },
+  {
+    "id": 9,
+    "title": "Gone Girl",
+    "author": "Gillian Flynn",
+    "cover": "https://m.media-amazon.com/images/I/71+khXHbe5L.jpg",
+    "rating": 5,
+    "genre": "fiction",
+    "description": "A dystopian novel that explores a world dominated by totalitarianism and extreme government surveillance. The story follows Winston Smith, a member of the Outer Party in the superstate of Oceania, as he secretly rebels against the oppressive rule of Big Brother. Winston struggles with his internal conflict of loyalty to the Party and his desire for freedom and truth. As he falls in love with Julia, he finds hope, but soon discovers that the Party\u2019s control extends beyond what he ever imagined. Orwell\u2019s novel is a haunting vision of a future where individuality is crushed, history is rewritten, and the government manipulates reality."
+  },
+  {
+    "id": 10,
+    "title": "The Hound of the Baskervilles",
+    "author": "Arthur Conan Doyle",
+    "cover": "https://m.media-amazon.com/images/I/61zatwCfS5L._AC_UF1000,1000_QL80_.jpg",
+    "rating": 4,
+    "genre": "sci-fi",
+    "description": "A powerful novel about censorship, knowledge, and the dangers of a passive society, 'Fahrenheit 451' is set in a future where books are banned, and firefighters burn any that are found. The protagonist, Guy Montag, is a fireman who begins to question his role after meeting a free-spirited young woman named Clarisse. As he secretly collects books and seeks knowledge, he becomes a fugitive from the state. Bradbury\u2019s novel is a warning about the consequences of censorship, the control of information, and the importance of literature in human civilization."
+  },
+  {
+    "id": 11,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "cover": "https://rukminim2.flixcart.com/image/850/1000/xif0q/book/f/s/1/pride-prejudice-original-imagy32ephewfga2.jpeg?q=90&crop=false",
+    "rating": 4,
+    "genre": "fiction",
+    "description": "A classic American novel set in the Roaring Twenties, 'The Great Gatsby' explores themes of wealth, love, and the pursuit of the American Dream. The story is narrated by Nick Carraway, who moves to West Egg and becomes fascinated by his mysterious and wealthy neighbor, Jay Gatsby. Gatsby throws lavish parties in hopes of rekindling his lost love with Daisy Buchanan. As the story unfolds, the novel critiques the hollowness of the elite and the corruption underlying the American Dream. Fitzgerald\u2019s novel is a beautifully written, tragic tale of ambition, longing, and the illusion of success."
+  }
+]
